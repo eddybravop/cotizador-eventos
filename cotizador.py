@@ -1,6 +1,3 @@
-@author: Eddy Gabriel Bravo
-
-
 import streamlit as st
 import datetime
 import urllib.parse
